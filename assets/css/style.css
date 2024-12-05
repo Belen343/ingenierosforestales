@@ -595,7 +595,7 @@
 }
 
 .equipo-container {
-    background-image: url('../img/fondoEquipo.webp');
+    background-color: var(--color-cafe);
     background-size: cover;
     background-position: center;
     padding: 2%;
